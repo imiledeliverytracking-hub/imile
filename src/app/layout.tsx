@@ -6,6 +6,7 @@ import { cn } from "@/lib/utils";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
+  <meta name="msvalidate.01" content="27D89823A10D605BB460D646E91B0AD3" />
   title: "iMile Tracking - Real-time Delivery Status | Track & Trace",
   description: "Track your iMile shipments instantly. Get real-time updates, delivery status, and estimated arrival times for all iMile packages. The most accurate iMile tracker.",
   keywords: "iMile Tracking, iMile Delivery, Track iMile Package, iMile Courier, iMile Status, iMile Logistics",
