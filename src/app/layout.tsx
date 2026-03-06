@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://imiledeliverytracking.com/",
+    url: "https://www.imiledeliverytracking.com/",
     title: "iMile Tracking - Real-time Delivery Status",
     description: "Track your iMile shipments instantly. Get real-time updates.",
     siteName: "iMile Tracking",
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     description: "Track your iMile shipments instantly. Get real-time updates.",
   },
   alternates: {
-    canonical: "https://imiledeliverytracking.com/",
+    canonical: "https://www.imiledeliverytracking.com/",
   },
 };
 
